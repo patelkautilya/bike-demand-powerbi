@@ -1,0 +1,7 @@
+{
+  "name": "Mobility Operations",
+  "dataColors": ["#4F46E5", "#F59E0B", "#06B6D4", "#EC4899", "#10B981", "#64748B", "#8B5CF6", "#F97316"],
+  "background": "#F1F5F9",
+  "foreground": "#172B4D",
+  "tableAccent": "#4F46E5"
+}

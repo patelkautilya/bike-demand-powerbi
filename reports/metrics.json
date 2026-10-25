@@ -1,0 +1,12 @@
+{
+  "observed_hours": 17379,
+  "observed_days": 731,
+  "missing_date_hour_combinations": 165,
+  "total_rentals": 3292679,
+  "casual_rentals": 620017,
+  "registered_rentals": 2672662,
+  "registered_share": 0.8116983161735475,
+  "rentals_per_observed_hour": 189.46308763450142,
+  "rentals_per_day": 4504.3488372093025,
+  "source_hour_sha256": "e03de4ee4ef4dc376ac6e04bf829673c6269e8eba5c60fa121640fa2f829504f"
+}

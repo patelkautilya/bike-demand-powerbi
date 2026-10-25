@@ -1,0 +1,3 @@
+DayType,total_rentals,observed_hours,registered_rentals,casual_rentals,rentals_per_observed_hour
+Non-working day,1000269,5514,683537,316732,181.40533188248097
+Working day,2292410,11865,1989125,303285,193.20775389801938

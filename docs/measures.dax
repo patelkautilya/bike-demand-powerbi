@@ -1,0 +1,5 @@
+Rentals per Observed Hour = DIVIDE(SUM(rentals[TotalRentals]), SUM(rentals[ObservedHours]))
+// Decimal number, two decimal places. Denominator is recorded source hours.
+
+Registered Share = DIVIDE(SUM(rentals[RegisteredRentals]), SUM(rentals[TotalRentals]))
+// Percentage, two decimal places. Share of rentals, not unique riders.
